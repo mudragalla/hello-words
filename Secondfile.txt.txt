@@ -1,1 +1,1 @@
-this is second file in GIT
+this is second file in GIT updated
